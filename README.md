@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my recipes storing website using the Mern Stack
+I'm currently working on a startup where I am developing a fullstack web applicaiton with React, Typescript, Python, Fast Api, PostgreSQL, Docker, and AWS
 
 
 ## 🌐 Socials:
