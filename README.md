@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a startup where I am developing a fullstack web applicaiton with React, Typescript, Python, Fast Api, PostgreSQL, Docker, and AWS
+Outside of my job as a full stack dev, I work on a startup for traffic engineers and a skill building web app
 
 
 ## 🌐 Socials:
